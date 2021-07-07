@@ -19,6 +19,7 @@ import requests
 from retry import retry
 
 RAW_URL = [
+    "api.spotify.com",
     "www.spotify.com",
     "spotify.com",
     "open.spotify.com"]
