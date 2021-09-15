@@ -11,13 +11,13 @@
 35.186.224.30                 open.spotify.com
 
 
-# Update time: 2021-09-15T08:21:05+08:00
+# Update time: 2021-09-15T14:07:17+08:00
 # Star me GitHub url: 
 # Spotify Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-09-15T08:21:05+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-09-15T14:07:17+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/MrKelvinChen/SpotifyHost/main/hosts`
 - JSON：`https://raw.fastgit.org/MrKelvinChen/SpotifyHost/main/hosts.json`
