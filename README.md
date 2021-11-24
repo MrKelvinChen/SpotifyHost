@@ -5,19 +5,17 @@
 ### 复制下面的内容
 ```bash
 # Spotify Host Start
-35.186.224.25                 api.spotify.com
-35.186.224.25                 www.spotify.com
 35.186.224.25                 spotify.com
 35.186.224.25                 open.spotify.com
 
 
-# Update time: 2021-11-24T08:23:36+08:00
+# Update time: 2021-11-24T14:09:00+08:00
 # Star me GitHub url: 
 # Spotify Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-11-24T08:23:36+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-11-24T14:09:00+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.fastgit.org/MrKelvinChen/SpotifyHost/main/hosts`
 - JSON：`https://raw.fastgit.org/MrKelvinChen/SpotifyHost/main/hosts.json`
